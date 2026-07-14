@@ -3,6 +3,8 @@ set(KF_VERSION "6.28.0") # handled by release scripts
 set(KF_DEP_VERSION "6.28.0") # handled by release scripts
 project(KUserFeedback VERSION ${KF_VERSION})
 
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
 # ECM setup
 include(FeatureSummary)
 find_package(ECM ${KF_DEP_VERSION}  NO_MODULE)
