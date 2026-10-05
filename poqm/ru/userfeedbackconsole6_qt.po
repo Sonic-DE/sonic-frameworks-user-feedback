@@ -136,7 +136,7 @@ msgstr "Группировать данные по дням."
 #: analytics/analyticsview.ui:182
 msgctxt "KUserFeedback::Console::AnalyticsView|"
 msgid "&Export Data..."
-msgstr "&Экспортировать данные..."
+msgstr "&Экспортировать данные…"
 
 #: analytics/analyticsview.ui:185
 msgctxt "KUserFeedback::Console::AnalyticsView|"
@@ -146,7 +146,7 @@ msgstr "Экспорт всех записанных данных."
 #: analytics/analyticsview.ui:193
 msgctxt "KUserFeedback::Console::AnalyticsView|"
 msgid "&Import Data..."
-msgstr "&Импортировать данные..."
+msgstr "&Импортировать данные…"
 
 #: analytics/analyticsview.ui:196
 msgctxt "KUserFeedback::Console::AnalyticsView|"
@@ -171,7 +171,7 @@ msgstr "&Диаграмма распределения по времени"
 #: analytics/analyticsview.ui:221
 msgctxt "KUserFeedback::Console::AnalyticsView|"
 msgid "Show development over time."
-msgstr "Прогресс за время."
+msgstr "Показать изменения во времени."
 
 #: analytics/analyticsview.ui:232
 msgctxt "KUserFeedback::Console::AnalyticsView|"
@@ -181,17 +181,17 @@ msgstr "Диаграмма &единичного периода"
 #: analytics/analyticsview.ui:235
 msgctxt "KUserFeedback::Console::AnalyticsView|"
 msgid "Show chart for a single time interval."
-msgstr "Диаграмма для единичного временного интервала."
+msgstr "Показать диаграмму для одного временного интервала."
 
 #: analytics/analyticsview.ui:243
 msgctxt "KUserFeedback::Console::AnalyticsView|"
 msgid "Export &Chart..."
-msgstr "&Экспорт диаграммы..."
+msgstr "&Экспорт диаграммы…"
 
 #: analytics/analyticsview.ui:246
 msgctxt "KUserFeedback::Console::AnalyticsView|"
 msgid "Export the current chart as image, SVG or PDF."
-msgstr "Экспорт текущей диаграммы в формате изображения, SVG or PDF."
+msgstr "Экспорт текущей диаграммы в формате изображения, SVG или PDF."
 
 #: analytics/chartexportdialog.cpp:50
 msgctxt "KUserFeedback::Console::ChartExportDialog|"
@@ -211,7 +211,7 @@ msgstr "Имя &файла:"
 #: analytics/chartexportdialog.ui:35
 msgctxt "KUserFeedback::Console::ChartExportDialog|"
 msgid "..."
-msgstr "..."
+msgstr "…"
 
 #: analytics/chartexportdialog.ui:44
 msgctxt "KUserFeedback::Console::ChartExportDialog|"
@@ -261,7 +261,7 @@ msgstr "Подключиться к серверу аналитики"
 #: connectdialog.ui:22
 msgctxt "KUserFeedback::Console::ConnectDialog|"
 msgid "Server &name:"
-msgstr "Имя сервера:"
+msgstr "Имя &сервера:"
 
 #: connectdialog.ui:32
 msgctxt "KUserFeedback::Console::ConnectDialog|"
@@ -539,7 +539,7 @@ msgstr "Панель просмотра"
 #: mainwindow.ui:186
 msgctxt "KUserFeedback::Console::MainWindow|"
 msgid "&Connect to Server..."
-msgstr "&Подключиться к серверу..."
+msgstr "&Подключиться к серверу…"
 
 #: mainwindow.ui:189
 msgctxt "KUserFeedback::Console::MainWindow|"
@@ -564,7 +564,7 @@ msgstr "Выход из консоли обратной связи."
 #: mainwindow.ui:214
 msgctxt "KUserFeedback::Console::MainWindow|"
 msgid "&Add Product..."
-msgstr "&Добавить продукт..."
+msgstr "&Добавить продукт…"
 
 #: mainwindow.ui:217
 msgctxt "KUserFeedback::Console::MainWindow|"
@@ -584,7 +584,7 @@ msgstr "Удалить продукт и связанные с ним данны
 #: mainwindow.ui:236
 msgctxt "KUserFeedback::Console::MainWindow|"
 msgid "&About..."
-msgstr "&О программе..."
+msgstr "&О программе…"
 
 #: mainwindow.ui:239
 msgctxt "KUserFeedback::Console::MainWindow|"
@@ -594,7 +594,7 @@ msgstr "Сведения об этом приложении"
 #: mainwindow.ui:247
 msgctxt "KUserFeedback::Console::MainWindow|"
 msgid "&Contribute..."
-msgstr "&Содействовать..."
+msgstr "&Содействовать…"
 
 #: mainwindow.ui:250
 msgctxt "KUserFeedback::Console::MainWindow|"
@@ -619,7 +619,7 @@ msgstr "&Опросы"
 #: mainwindow.ui:278
 msgctxt "KUserFeedback::Console::MainWindow|"
 msgid "Manage product surveys."
-msgstr "Управления опросами по продукту"
+msgstr "Управление опросами по продукту"
 
 #: mainwindow.ui:289
 msgctxt "KUserFeedback::Console::MainWindow|"
@@ -634,7 +634,7 @@ msgstr "Анализ данных телеметрии продукта"
 #: mainwindow.ui:300
 msgctxt "KUserFeedback::Console::MainWindow|"
 msgid "User Manual..."
-msgstr "Руководство пользователя..."
+msgstr "Руководство пользователя…"
 
 #: mainwindow.ui:303
 msgctxt "KUserFeedback::Console::MainWindow|"
@@ -644,7 +644,7 @@ msgstr "Открыть руководство пользователя"
 #: mainwindow.ui:311
 msgctxt "KUserFeedback::Console::MainWindow|"
 msgid "Import Product..."
-msgstr "Импортировать продукт..."
+msgstr "Импортировать продукт…"
 
 #: mainwindow.ui:314
 msgctxt "KUserFeedback::Console::MainWindow|"
@@ -654,7 +654,7 @@ msgstr "Импорт параметров и данных продукта"
 #: mainwindow.ui:322
 msgctxt "KUserFeedback::Console::MainWindow|"
 msgid "Export Product..."
-msgstr "Экспортировать продукт..."
+msgstr "Экспортировать продукт…"
 
 #: mainwindow.ui:325
 msgctxt "KUserFeedback::Console::MainWindow|"

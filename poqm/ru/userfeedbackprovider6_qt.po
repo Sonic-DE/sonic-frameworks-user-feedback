@@ -73,7 +73,7 @@ msgstr "Отправленные данные: <tt>%1</tt><br/><br/>"
 #: core/compilerinfosource.cpp:20
 msgctxt "KUserFeedback::CompilerInfoSource|"
 msgid "The compiler used to build this application."
-msgstr "Компилятор, использований для сборки этого приложения."
+msgstr "Компилятор, использованный для сборки этого приложения."
 
 #: core/compilerinfosource.cpp:53
 msgctxt "KUserFeedback::CompilerInfoSource|"
@@ -103,7 +103,7 @@ msgstr "Основные сведения о системе"
 #: core/feedbackconfiguicontroller.cpp:123
 msgctxt "KUserFeedback::FeedbackConfigUiController|"
 msgid "Basic system information and usage statistics"
-msgstr "Основные сведения о системе и статистка использования"
+msgstr "Основные сведения о системе и статистика использования"
 
 #: core/feedbackconfiguicontroller.cpp:125
 msgctxt "KUserFeedback::FeedbackConfigUiController|"
@@ -302,7 +302,7 @@ msgstr "Параметры экрана"
 #: core/startcountsource.cpp:31
 msgctxt "KUserFeedback::StartCountSource|"
 msgid "How often the application has been started."
-msgstr "Как часто приложение было запущено"
+msgstr "Сколько раз запускалось приложение"
 
 #: core/startcountsource.cpp:46
 msgctxt "KUserFeedback::StartCountSource|"
@@ -332,7 +332,7 @@ msgstr "Отправленные данные"
 #: widgets/auditlogbrowserdialog.ui:22
 msgctxt "KUserFeedback::AuditLogBrowserDialog|"
 msgid "Da&ta Submission:"
-msgstr "Представление &данных:"
+msgstr "Отправка &данных:"
 
 #: widgets/feedbackconfigdialog.cpp:32
 msgctxt "KUserFeedback::FeedbackConfigDialog|"
@@ -363,7 +363,7 @@ msgid ""
 "collect your personal data, files you use, websites you visit, or "
 "information that could identify you."
 msgstr ""
-"Обратная связь помогает разработчикам обратить своё внимание на то, что что "
+"Обратная связь помогает разработчикам обратить своё внимание на то, что "
 "необходимо пользователям. Участие в предоставлении сведений необязательно и "
 "анонимно. Передаваемая информация не содержит персональных данных, сведений "
 "об используемых файлах, а также никаких других данных, которые могут быть "
@@ -372,7 +372,7 @@ msgstr ""
 #: widgets/feedbackconfigwidget.ui:33
 msgctxt "KUserFeedback::FeedbackConfigWidget|"
 msgid "Contribute Statistics"
-msgstr "Статистика предоставления данных"
+msgstr "Отправка статистики"
 
 #: widgets/feedbackconfigwidget.ui:107
 msgctxt "KUserFeedback::FeedbackConfigWidget|"
@@ -387,7 +387,7 @@ msgstr "Просмотр данных, которые подготовлены �
 #: widgets/feedbackconfigwidget.ui:137
 msgctxt "KUserFeedback::FeedbackConfigWidget|"
 msgid "<a href=\"auditLog\">View previously submitted data...</a>"
-msgstr "<a href=\"auditLog\">Посмотреть ранее переданные данные...</a>"
+msgstr "<a href=\"auditLog\">Посмотреть ранее переданные данные…</a>"
 
 #: widgets/feedbackconfigwidget.ui:150
 msgctxt "KUserFeedback::FeedbackConfigWidget|"
@@ -405,9 +405,9 @@ msgid ""
 "You can help us improving this application by sharing statistics and "
 "participate in surveys."
 msgstr ""
-"Предоставление доступа к своей статистке использования приложения и участие "
-"в проводимых опросах позволяет разработчикам понять, как возможно улучшить "
-"это приложение."
+"Предоставление доступа к своей статистике использования приложения и участие "
+"в проводимых опросах позволяет разработчикам понять, как можно улучшить это "
+"приложение."
 
 #: widgets/notificationpopup.cpp:70
 #, qt-format
@@ -422,9 +422,9 @@ msgid ""
 "You can help us improving %1 by sharing statistics and participate in "
 "surveys."
 msgstr ""
-"Предоставление доступа к своей статистке использования приложения и участие "
-"в проводимых опросах позволяет разработчикам %1 понять, как возможно "
-"улучшить это приложение."
+"Предоставление доступа к своей статистике использования приложения и участие "
+"в проводимых опросах позволяет разработчикам %1 понять, как можно улучшить "
+"это приложение."
 
 #: widgets/notificationpopup.cpp:73
 msgctxt "KUserFeedback::NotificationPopup|@action:button"
