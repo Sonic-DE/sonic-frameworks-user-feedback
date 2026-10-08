@@ -39,6 +39,10 @@
   <name xml:lang="sa">KUserFeedback Console इति</name>
   <name xml:lang="sk">Konzola KUserFeedback</name>
   <name xml:lang="sl">KUserFeedback Console</name>
+  <name xml:lang="sr">Конзола за корисничке реакције</name>
+  <name xml:lang="sr-Latn">Konzola za korisničke reakcije</name>
+  <name xml:lang="sr-ijekavian">Конзола за корисничке реакције</name>
+  <name xml:lang="sr-ijekavianlatin">Konzola za korisničke reakcije</name>
   <name xml:lang="sv">Terminal för användaråterkoppling</name>
   <name xml:lang="tr">K Kullanıcı Geri Bildirimi Konsolu</name>
   <name xml:lang="uk">Консоль KUserFeedback</name>
@@ -79,6 +83,10 @@
   <summary xml:lang="sa">KUserFeedback सर्वराणां कृते विश्लेषणं प्रशासनसाधनं च</summary>
   <summary xml:lang="sk">Nástroj na analýzu a správu pre servery KUserFeedback</summary>
   <summary xml:lang="sl">Analitika in orodje administracijo strežnikov za uporabniške povratne informacije</summary>
+  <summary xml:lang="sr">Алатка за администрирање и анализирање сервера корисничких реакција</summary>
+  <summary xml:lang="sr-Latn">Alatka za administriranje i analiziranje servera korisničkih reakcija</summary>
+  <summary xml:lang="sr-ijekavian">Алатка за администрирање и анализирање сервера корисничких реакција</summary>
+  <summary xml:lang="sr-ijekavianlatin">Alatka za administriranje i analiziranje servera korisničkih reakcija</summary>
   <summary xml:lang="sv">Analys- och administrationsverktyg för användaråterkopplingsservrar</summary>
   <summary xml:lang="tr">K Kullanıcı Geri Bildirimi sunucuları için çözümleme ve yönetim aracı</summary>
   <summary xml:lang="uk">Аналітичний і адміністративний інструмент для серверів KUserFeedback</summary>
@@ -122,6 +130,10 @@
     <p xml:lang="sa">गुणाः:</p>
     <p xml:lang="sk">Funkcie:</p>
     <p xml:lang="sl">Zmožnosti:</p>
+    <p xml:lang="sr">Могућности:</p>
+    <p xml:lang="sr-Latn">Mogućnosti:</p>
+    <p xml:lang="sr-ijekavian">Могућности:</p>
+    <p xml:lang="sr-ijekavianlatin">Mogućnosti:</p>
     <p xml:lang="sv">Funktioner:</p>
     <p xml:lang="ta">அம்சங்கள்:</p>
     <p xml:lang="tr">Özellikler:</p>
@@ -165,6 +177,10 @@
       <li xml:lang="sa">उत्पादानाम् उत्पाददत्तांशयोजनानां च निर्माणं, सम्पादनं, निष्कासनं च ।</li>
       <li xml:lang="sk">Vytvárať, upravovať a odstraňovať produkty a schémy dát produktov.</li>
       <li xml:lang="sl">Ustvarja, ureja in odstranjuje izdelke in podatkovne sheme izdelkov.</li>
+      <li xml:lang="sr">Стварање, уређивање и уклањање производа и шема података производа.</li>
+      <li xml:lang="sr-Latn">Stvaranje, uređivanje i uklanjanje proizvoda i šema podataka proizvoda.</li>
+      <li xml:lang="sr-ijekavian">Стварање, уређивање и уклањање производа и шема података производа.</li>
+      <li xml:lang="sr-ijekavianlatin">Stvaranje, uređivanje i uklanjanje proizvoda i šema podataka proizvoda.</li>
       <li xml:lang="sv">Skapa, redigera och ta bort produkter och produktdatascheman.</li>
       <li xml:lang="tr">Ürünler ve ürün veri şemaları oluşturun, düzenleyin, kaldırın.</li>
       <li xml:lang="uk">Створення, редагування та вилучення продуктів та схем даних продуктів.</li>
@@ -205,6 +221,10 @@
       <li xml:lang="sa">उपयोक्तृसर्वक्षणस्य प्रबन्धनं कुर्वन्तु।</li>
       <li xml:lang="sk">Spravovať prieskumy používateľov.</li>
       <li xml:lang="sl">Upravlja ankete uporabnikov.</li>
+      <li xml:lang="sr">Управљање корисничким анкетама.</li>
+      <li xml:lang="sr-Latn">Upravljanje korisničkim anketama.</li>
+      <li xml:lang="sr-ijekavian">Управљање корисничким анкетама.</li>
+      <li xml:lang="sr-ijekavianlatin">Upravljanje korisničkim anketama.</li>
       <li xml:lang="sv">Hantera användarenkäter.</li>
       <li xml:lang="tr">Kullanıcı anketlerini yönetin.</li>
       <li xml:lang="uk">Керування створеними користувачами оглядами.</li>
@@ -245,6 +265,10 @@
       <li xml:lang="sa">दूरमापनदत्तांशस्य मूलभूतसमीक्षा विश्लेषणं च।</li>
       <li xml:lang="sk">Základná kontrola a analýza telemetrických dát.</li>
       <li xml:lang="sl">Osnovni pregled in analitika telemetrijskih podatkov.</li>
+      <li xml:lang="sr">Основни преглед и анализа телеметријских података.</li>
+      <li xml:lang="sr-Latn">Osnovni pregled i analiza telemetrijskih podataka.</li>
+      <li xml:lang="sr-ijekavian">Основни преглед и анализа телеметријских података.</li>
+      <li xml:lang="sr-ijekavianlatin">Osnovni pregled i analiza telemetrijskih podataka.</li>
       <li xml:lang="sv">Grundläggande granskning och analys av telemetridata.</li>
       <li xml:lang="tr">Telemetri verisinin yalın değerlendirmesi ve çözümlemesi.</li>
       <li xml:lang="uk">Базові можливості огляду та аналізу даних телеметрії.</li>
@@ -285,6 +309,10 @@
       <li xml:lang="sa">उत्पाद योजना तथा दूरमापन आँकडा आयात/निर्यात।</li>
       <li xml:lang="sk">Import/export schém produktov a telemetrických dát.</li>
       <li xml:lang="sl">Shema izdelkov in uvoz/izvoz podatkov iz telemetrije.</li>
+      <li xml:lang="sr">Увоз и извоз шема производа и телеметријских података.</li>
+      <li xml:lang="sr-Latn">Uvoz i izvoz šema proizvoda i telemetrijskih podataka.</li>
+      <li xml:lang="sr-ijekavian">Увоз и извоз шема производа и телеметријских података.</li>
+      <li xml:lang="sr-ijekavianlatin">Uvoz i izvoz šema proizvoda i telemetrijskih podataka.</li>
       <li xml:lang="sv">Import och export av produktscheman och telemetridata.</li>
       <li xml:lang="tr">Ürün şeması ve telemetri verisi içe/dışa aktarım.</li>
       <li xml:lang="uk">Імпортування та експортування даних схеми продуктів та телеметрії.</li>
