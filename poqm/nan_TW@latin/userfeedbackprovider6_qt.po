@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"PO-Revision-Date: 2026-08-18 04:10+0900\n"
+"PO-Revision-Date: 2026-10-07 19:55+0900\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Min Nan Chinese Latin <zh-l10n@lists.slat.org>\n"
 "Language: nan_TW@latin\n"
@@ -65,7 +65,7 @@ msgstr "Só-sî: <i>%1</i><br/>"
 #, qt-format
 msgctxt "KUserFeedback::AuditLogUiController|"
 msgid "Submitted data: <tt>%1</tt><br/><br/>"
-msgstr ""
+msgstr "Í-king thê-tshut ê tsu-liāu: <tt>%1</tt><br/><br/>"
 
 #: core/compilerinfosource.cpp:20
 msgctxt "KUserFeedback::CompilerInfoSource|"
@@ -190,6 +190,8 @@ msgid ""
 "Share detailed system information and statistics on how often individual "
 "features of %1 are used."
 msgstr ""
+"Hun-hiáng siông-sè hē-thóng tsu-sìn kap lí sú-iōng %1 kò-pia̍t kong-lîng ê "
+"pîn-lu̍t."
 
 #: core/feedbackconfiguicontroller.cpp:231
 msgctxt "KUserFeedback::FeedbackConfigUiController|"
@@ -232,17 +234,17 @@ msgstr ""
 #: core/localeinfosource.cpp:21
 msgctxt "KUserFeedback::LocaleInfoSource|"
 msgid "The current region and language settings."
-msgstr ""
+msgstr "Tsit-má ê khu-i̍k kap gí-giân siat-tīng."
 
 #: core/localeinfosource.cpp:35
 msgctxt "KUserFeedback::LocaleInfoSource|"
 msgid "Locale information"
-msgstr ""
+msgstr "Locale tsu-sìn"
 
 #: core/openglinfosource.cpp:28
 msgctxt "KUserFeedback::OpenGLInfoSource|"
 msgid "Information about type, version and vendor of the OpenGL stack."
-msgstr ""
+msgstr "OpenGL stack ê luī-hîng, pán-pún, kap tshiúnn-siong tsu-sìn."
 
 #: core/openglinfosource.cpp:98
 msgctxt "KUserFeedback::OpenGLInfoSource|"
@@ -252,17 +254,17 @@ msgstr "OpenGL tsu-sìn"
 #: core/platforminfosource.cpp:21
 msgctxt "KUserFeedback::PlatformInfoSource|"
 msgid "Type and version of the operating system."
-msgstr ""
+msgstr "Tshau-tsok-hē-thóng ê luī-hîng kap pán-pún."
 
 #: core/platforminfosource.cpp:58
 msgctxt "KUserFeedback::PlatformInfoSource|"
 msgid "Platform information"
-msgstr ""
+msgstr "Pênn-tâi tsu-sìn"
 
 #: core/qpainfosource.cpp:21
 msgctxt "KUserFeedback::QPAInfoSource|"
 msgid "The Qt platform abstraction plugin."
-msgstr ""
+msgstr "Qt pênn-tâi thiu-siōng-huà guā-kuà-tîng-sik."
 
 #: core/qpainfosource.cpp:33
 msgctxt "KUserFeedback::QPAInfoSource|"
@@ -272,7 +274,7 @@ msgstr "QPA tsu-sìn"
 #: core/qtversionsource.cpp:21
 msgctxt "KUserFeedback::QtVersionSource|"
 msgid "The Qt version used by this application."
-msgstr ""
+msgstr "Tsit ê ìng-iōng-tîng-sik iōng ê Qt pán-pún."
 
 #: core/qtversionsource.cpp:33
 msgctxt "KUserFeedback::QtVersionSource|"
@@ -297,7 +299,7 @@ msgstr ""
 #: core/startcountsource.cpp:46
 msgctxt "KUserFeedback::StartCountSource|"
 msgid "Launches count"
-msgstr ""
+msgstr "Khé-tōng kui pái"
 
 #: core/usagetimesource.cpp:31
 msgctxt "KUserFeedback::UsageTimeSource|"
@@ -312,32 +314,32 @@ msgstr "Sú-iōng sî-kan"
 #: widgets/auditlogbrowserdialog.cpp:28
 msgctxt "KUserFeedback::AuditLogBrowserDialog|"
 msgid "Delete Log"
-msgstr ""
+msgstr "Thâi-tiāu Kì-lo̍k"
 
 #: widgets/auditlogbrowserdialog.ui:14
 msgctxt "KUserFeedback::AuditLogBrowserDialog|"
 msgid "Submitted Data"
-msgstr ""
+msgstr "Í-king Thê-tshut ê Tsu-liāu"
 
 #: widgets/auditlogbrowserdialog.ui:22
 msgctxt "KUserFeedback::AuditLogBrowserDialog|"
 msgid "Da&ta Submission:"
-msgstr ""
+msgstr "&Tsu-liāu ê Thê-tshut:"
 
 #: widgets/feedbackconfigdialog.cpp:32
 msgctxt "KUserFeedback::FeedbackConfigDialog|"
 msgid "Contribute!"
-msgstr ""
+msgstr "Kòng-hiàn!"
 
 #: widgets/feedbackconfigdialog.cpp:33
 msgctxt "KUserFeedback::FeedbackConfigDialog|"
 msgid "No, I do not want to contribute."
-msgstr ""
+msgstr "Bô, guá bô beh kòng-hiàn."
 
 #: widgets/feedbackconfigdialog.ui:14
 msgctxt "KUserFeedback::FeedbackConfigDialog|"
 msgid "Feedback Settings"
-msgstr ""
+msgstr "Huê-kuī Siat-tīng"
 
 #: widgets/feedbackconfigwidget.cpp:116
 msgctxt "KUserFeedback::FeedbackConfigWidget|"
@@ -357,7 +359,7 @@ msgstr ""
 #: widgets/feedbackconfigwidget.ui:33
 msgctxt "KUserFeedback::FeedbackConfigWidget|"
 msgid "Contribute Statistics"
-msgstr ""
+msgstr "Kòng-hiàn Thóng-kè"
 
 #: widgets/feedbackconfigwidget.ui:107
 msgctxt "KUserFeedback::FeedbackConfigWidget|"
@@ -377,7 +379,7 @@ msgstr ""
 #: widgets/feedbackconfigwidget.ui:150
 msgctxt "KUserFeedback::FeedbackConfigWidget|"
 msgid "Participate in Surveys"
-msgstr ""
+msgstr "Tsham-ka Tiâu-tsa"
 
 #: widgets/notificationpopup.cpp:67
 msgctxt "KUserFeedback::NotificationPopup|"
@@ -408,7 +410,7 @@ msgstr ""
 #: widgets/notificationpopup.cpp:73
 msgctxt "KUserFeedback::NotificationPopup|@action:button"
 msgid "Contribute…"
-msgstr ""
+msgstr "Kòng-hiàn…"
 
 #: widgets/notificationpopup.cpp:84
 msgctxt "KUserFeedback::NotificationPopup|"
@@ -433,7 +435,7 @@ msgstr ""
 #: widgets/notificationpopup.cpp:89
 msgctxt "KUserFeedback::NotificationPopup|"
 msgid "Participate"
-msgstr ""
+msgstr "Tsham-ka"
 
 #: widgets/styleinfosource.cpp:23
 msgctxt "KUserFeedback::StyleInfoSource|"
