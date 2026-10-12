@@ -1,9 +1,7 @@
-cmake_minimum_required(VERSION 3.29)
-set(KF_VERSION "6.30.0") # handled by release scripts
+cmake_minimum_required(VERSION 3.30)
+set(KF_VERSION "6.31.0") # handled by release scripts
 set(KF_DEP_VERSION "6.30.0") # handled by release scripts
 project(KUserFeedback VERSION ${KF_VERSION})
-
-set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 # ECM setup
 include(FeatureSummary)
@@ -39,6 +37,7 @@ include(ECMGenerateExportHeader)
 include(ECMDeprecationSettings)
 include(ECMGenerateQDoc)
 include(ECMQtDeclareLoggingCategory)
+include(ECMInstalledLibraryCheck)
 
 ecm_setup_version(PROJECT
     VARIABLE_PREFIX KUSERFEEDBACK
@@ -51,7 +50,7 @@ ecm_setup_version(PROJECT
 #
 
 # Dependencies
-set(REQUIRED_QT_VERSION 6.9.0)
+set(REQUIRED_QT_VERSION 6.10.0)
 find_package(Qt6 ${REQUIRED_QT_VERSION} NO_MODULE REQUIRED COMPONENTS Core Network)
 find_package(Qt6 ${REQUIRED_QT_VERSION} NO_MODULE QUIET OPTIONAL_COMPONENTS Widgets Charts Test Qml Svg PrintSupport)
 find_package(QmlLint)
